@@ -1,0 +1,10 @@
+pages\TransactionPage.class
+pages\LoginPage.class
+utilities\ExcelUtil.class
+pages\DashboardPage.class
+pages\LogoutPage.class
+utilities\TestData.class
+utilities\WaitUtil.class
+pages\AccountPage.class
+pages\TransferPage.class
+utilities\ScreenshotUtil.class

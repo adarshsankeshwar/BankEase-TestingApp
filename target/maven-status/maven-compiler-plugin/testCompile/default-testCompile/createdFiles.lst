@@ -1,0 +1,8 @@
+base\BaseTest.class
+tests\DashboardTests.class
+tests\TransferTests.class
+tests\LoginTests.class
+listeners\TestListener.class
+tests\AccountTests.class
+tests\LogoutTests.class
+tests\TransactionTests.class
